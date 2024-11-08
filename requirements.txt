@@ -9,3 +9,4 @@ langchain_google_genai
 beautifulsoup4
 requests
 python-dotenv
+langchain-community
